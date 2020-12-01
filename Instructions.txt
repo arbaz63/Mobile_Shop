@@ -1,0 +1,3 @@
+1.Open "Views" folder in VScode
+2.Run command "npm install" (it will install necessary dependancies)
+3.Finally run "npm start"
